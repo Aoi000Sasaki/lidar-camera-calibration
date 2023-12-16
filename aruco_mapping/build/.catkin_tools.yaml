@@ -1,0 +1,6 @@
+devel_space: /home/user/ws/src/aruco_mapping/devel
+install: false
+install_space: /home/user/ws/src/aruco_mapping/install
+profile: default
+source_space: /home/user/ws/src/aruco_mapping/src
+workspace: /home/user/ws/src/aruco_mapping

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/ws/src/aruco_mapping/devel/.private/catkin_tools_prebuild/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/user/ws/src/lidar_camera_calibration/devel
+install: false
+install_space: /home/user/ws/src/lidar_camera_calibration/install
+profile: default
+source_space: /home/user/ws/src/lidar_camera_calibration/src
+workspace: /home/user/ws/src/lidar_camera_calibration

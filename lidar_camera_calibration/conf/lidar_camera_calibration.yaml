@@ -1,0 +1,5 @@
+﻿lidar_camera_calibration:
+  camera_frame_topic: /grasscam/image_raw
+  camera_info_topic: /grasscam/camera_info
+  velodyne_topic: /velodyne_points
+

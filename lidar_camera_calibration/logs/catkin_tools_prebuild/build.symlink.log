@@ -1,0 +1,12 @@
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./setup.zsh
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./env.sh
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./setup.bash
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./local_setup.zsh
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./cmake.lock
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./local_setup.sh
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./setup.sh
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./local_setup.bash
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/./_setup_util.py
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/user/ws/src/lidar_camera_calibration/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
